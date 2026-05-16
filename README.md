@@ -151,8 +151,7 @@ I am a fresher in Biotechnology Engineering with a strong passion for infectious
 
 This is my **first independent research project**, and I built it entirely on my own initiative using publicly available scientific data.
 
-🔗 **LinkedIn:** [www.linkedin.com/in/
-akritip]
+🔗 **LinkedIn:** [www.linkedin.com/in/akritip]
 📧 **Email:** [gnpandey76@gmail.com]
 
 ---
